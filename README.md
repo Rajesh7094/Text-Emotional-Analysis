@@ -19,4 +19,5 @@ This Python file is uesd to Host the Demo Web App via Streamlit
 ![Neutral Prediction](https://github.com/user-attachments/assets/fe17a509-9fb7-42e2-ba15-a56994d418ca)
 
 # Negative Prediction
-![Negative Prediction](https://github.com/user-attachments/assets/707c80c4-8a9f-4594-a77a-812d62773981)
+![Negative Prediction](https://github.com/user-attachments/assets/9b9f7213-3754-4c9c-8404-6550fd9acfd8)
+
