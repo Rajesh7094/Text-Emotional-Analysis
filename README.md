@@ -7,7 +7,7 @@ This Python file is used to find new predictions via Program Terminal
 This Python file is uesd to Host the Demo Web App via Streamlit
 
 # Install Packages
-    pip install requirements.txt
+    pip install -r requirements.txt
 
 # Main Page
 ![App Main Page](https://github.com/user-attachments/assets/18fb4f28-a3dd-4158-9dac-23d00d3925c7)
